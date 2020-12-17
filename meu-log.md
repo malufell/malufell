@@ -19,7 +19,7 @@ Um relato para automotivação, meus principais marcos na jornada de estudante p
 [Meu caderno de receitas](https://github.com/malufell/meu-caderno-de-receitas)
 
 - 12/15/20 - Implementei a edição de receitas, com o method override (HTTP PUT)
-- 11/30/20 - Implementei o cadastro de receitas (front e back) - aprendi sobre o multer e consegui incluir vídeo do youtube através da URL
+- 11/30/20 - Implementei o cadastro de receitas (front e back) - aprendi sobre o multer e consegui incluir vídeo do youtube através da URL :heart_eyes:
 - 11/30/20 - Implementei o back-end para exibição de uma receita
 - 11/17/20 - Implementei a primeira versão da tela que exibirá uma receita (front-end, com bootstrap)
 - 11/16/20 - Implementei a primeira versão da tela do caderno de receitas (front-end, com bootstrap)
