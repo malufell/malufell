@@ -13,6 +13,10 @@
 
 Adoro escrever e compartilhar o que estou aprendendo me ajuda a aprofundar e assimilar conhecimentos. Estes são meus últimos textos:
 
+- [Métodos build e create em tabela many-to-many, com upload de imagens e inclusão de vídeo do youtube através de URL](https://github.com/malufell/meu-caderno-de-receitas/wiki/d.-Create-em-tabela-many-to-many,-com-upload-de-imagem-e-inclus%C3%A3o-de-v%C3%ADdeo-do-youtube)
+- [Como criar relacionamentos entre tabelas - Sequelize (many-to-many e one-to-many)](https://github.com/malufell/meu-caderno-de-receitas/wiki/c.-Tabelas-com-relacionamentos-many-to-many-e-one-to-many)
+- [Criando índice no modelo (sequelize e postgres)](https://github.com/malufell/meu-caderno-de-receitas/wiki/b.-Criando-%C3%ADndice-no-modelo-(sequelize-e-postgres))
+- [Ajustando os tipos de dados e limite de caracteres no modelo Sequelize](https://github.com/malufell/meu-caderno-de-receitas/wiki/a.-Atualizando-um-modelo-Sequelize)
 - [Como implementei o método de busca (sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/9.-Implementando-o-m%C3%A9todo-de-busca) 
 - [Como implementei o cadastro de usuários com validação de dados no back-end (com sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/8.-Cadastro-de-usu%C3%A1rios-com-valida%C3%A7%C3%A3o-de-dados-no-back-end)
 - [Autenticação de usuários com passport e express-session](https://github.com/malufell/autenticacao-com-passport-express-session) :heart: 
@@ -22,7 +26,6 @@ Adoro escrever e compartilhar o que estou aprendendo me ajuda a aprofundar e ass
 - [Meus primeiros passos com EJS](https://github.com/malufell/meu-caderno-de-receitas/wiki/3.-Primeiros-passos-com-EJS)
 - [Como criei minha página "em breve" com bootstrap e coloquei no ar com github](https://github.com/malufell/meu-caderno-de-receitas/wiki/2.-Cria%C3%A7%C3%A3o-da-p%C3%A1gina-tempor%C3%A1ria-%22em-breve%22)
 - [Definindo o caminho do meu projeto: análise de negócio, análise técnica, wireframe](https://github.com/malufell/meu-caderno-de-receitas/wiki/1.-Definindo-o-caminho)
-
 
 ### 📫 Onde você pode me encontrar:
 
