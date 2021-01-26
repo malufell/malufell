@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, eu sou a Malu! 
 
-:arrow_right_hook: Em transição de carreira, atualmente estudo em tempo integral para seguir um novo caminho na área de TI; <br>
+:arrow_right_hook: Atualmente estudo em tempo integral para seguir um novo caminho no mercado de TI; <br>
 :leftwards_arrow_with_hook: Venho da área de gestão de processos e melhoria contínua, passei por indústrias e varejo; <br>
 :twisted_rightwards_arrows: Atuei na gestão de projetos, com metodologias lean, BPM e ágil - essa é a minha ponte entre os dois mundos. <br>
 
