@@ -53,7 +53,7 @@ Resultado: http://www.meucadernodereceitas.net/
 
 :zap::zap::zap:
 
-## :books: Cursos realizados - programação
+## :books: Cursos realizados - tech
 
 - 02/01/21 - Participei da imersão React e Netx da Alura! Foi meu primeiro contato com essas tecnologias e eu adorei, [aqui está o resultado](https://github.com/malufell/imersao-react-alura).
 - 09/30/20 - 24º: [ORM com NodeJS: Avançando nas funcionalidades do Sequelize](https://cursos.alura.com.br/user/malufell/course/orm-nodejs-avancando-sequelize/formalCertificate)
