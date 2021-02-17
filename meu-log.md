@@ -4,6 +4,10 @@ Um relato para automotivação, meus principais marcos na jornada de estudante p
 
 ## :pencil: Textos onde compartilho o que aprendi
 
+- [Métodos build e create em tabela many-to-many](https://github.com/malufell/meu-caderno-de-receitas/wiki/d.-Create-em-tabela-many-to-many,-com-upload-de-imagem-e-inclus%C3%A3o-de-v%C3%ADdeo-do-youtube)
+- [Como criar relacionamentos entre tabelas - Sequelize (many-to-many e one-to-many)](https://github.com/malufell/meu-caderno-de-receitas/wiki/c.-Tabelas-com-relacionamentos-many-to-many-e-one-to-many)
+- [Criando índice no modelo (sequelize e postgres)](https://github.com/malufell/meu-caderno-de-receitas/wiki/b.-Criando-%C3%ADndice-no-modelo-(sequelize-e-postgres))
+- [Ajustando os tipos de dados e limite de caracteres no modelo Sequelize](https://github.com/malufell/meu-caderno-de-receitas/wiki/a.-Atualizando-um-modelo-Sequelize)
 - [Como implementei o método de busca (sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/9.-Implementando-o-m%C3%A9todo-de-busca) 
 - [Como implementei o cadastro de usuários com validação de dados no back-end (com sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/8.-Cadastro-de-usu%C3%A1rios-com-valida%C3%A7%C3%A3o-de-dados-no-back-end)
 - [Autenticação de usuários com passport e express-session](https://github.com/malufell/autenticacao-com-passport-express-session) :heart: 
@@ -18,6 +22,20 @@ Um relato para automotivação, meus principais marcos na jornada de estudante p
 
 [Meu caderno de receitas](https://github.com/malufell/meu-caderno-de-receitas)
 
+Resultado: http://www.meucadernodereceitas.net/
+
+
+- 02/11/01 - Implementei o cloudnary, uma solução que eu encontrei para hospedagens de imagens! (inicialmente eu achei que ficaria tudo no heroku, baita engano kkk)
+- 02/11/01 - Criei uma página com um repositório de exemplo para que os visitantes vejam uma demo da aplicação.
+- **02/10/21 - Coloquei meu projeto no ar!!! com o Heroku!** E fiz uma série de pequenos ajustes após ver o projeto em produção :p 
+- 02/08/21 - Finalmente aprendi o que é dotenv kkk adicionei no meu projeto, preparando ele para ir ao ar!!
+- 02/05/21 - Implementei a criptografia de senhas, foi muito mais tranquilo do que eu imaginava \o/
+- 02/05/21 - Implementei a validação de dados das receitas, agora a seleção de categoria é uma informação obritatória! Não foi tão simples, porque a categoria está em uma tabela separada, mas resolvi utilizando um campo virtual no modelo :D 
+- 01/19/21 - Implementei a primeira versão da minha página principal do site! Ficou simples e bonito :) Também implementei a "prévia da formatação" durante um cadastro, para que o usuário possa visualizar como está ficando a lista de ingredientes e modo de preparo.
+- 01/18/21 - Implementei a paginação no caderno de receitas!! Foi um bom desafio! [Criei um repostório](https://github.com/malufell/paginacao) pra compartilhar esse código da paginação!
+- 01/12/21 - Implementei a exibição de imagens com o carrousel do bootstrap e a opção de cadastrar uma receita via foto! Tive que mexer em várias coisas pra essa implementação o/
+- 12/22/20 - Implementei o método para exclusão de receitas, utilizando um modal que ficou muito bonito <3
+- 12/22/20 - Implementei o back-end para o caderno de receitas: agora os cards buscam as informações do BD;
 - 12/15/20 - Implementei a edição de receitas, com o method override (HTTP PUT)
 - 11/30/20 - Implementei o cadastro de receitas (front e back) - aprendi sobre o multer e consegui incluir vídeo do youtube através da URL :heart_eyes:
 - 11/30/20 - Implementei o back-end para exibição de uma receita
