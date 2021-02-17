@@ -25,7 +25,7 @@ Um relato para automotivação, meus principais marcos na jornada de estudante p
 Resultado: http://www.meucadernodereceitas.net/
 
 
-- 02/11/01 - Implementei o cloudnary, uma solução que eu encontrei para hospedagens de imagens! (inicialmente eu achei que ficaria tudo no heroku, baita engano kkk)
+- 02/11/01 - Implementei o cloudinary, uma solução que eu encontrei para hospedagens de imagens! (inicialmente eu achei que ficaria tudo no heroku, baita engano kkk)
 - 02/11/01 - Criei uma página com um repositório de exemplo para que os visitantes vejam uma demo da aplicação.
 - **02/10/21 - Coloquei meu projeto no ar!!! com o Heroku!** E fiz uma série de pequenos ajustes após ver o projeto em produção :p 
 - 02/08/21 - Finalmente aprendi o que é dotenv kkk adicionei no meu projeto, preparando ele para ir ao ar!!
