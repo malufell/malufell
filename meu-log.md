@@ -43,7 +43,7 @@ Resultado: http://www.meucadernodereceitas.net/
 - 11/16/20 - Implementei a primeira versão da tela do caderno de receitas (front-end, com bootstrap)
 - 11/06/20 - Implementei cadastro de usuários com validação de dados no modelo - aprendi que existem os hooks 
 - 10/27/20 - Implementei header e footer com layout EJS e partials
-- 10/24/20 - Implementei a autenticação de usuários com passport, express-session e connect-flash ~ foi bem desafiador!!
+- 10/24/20 - Implementei a autenticação de usuários com passport, express-session e connect-flash ~ foi bem desafiador!! [Criei esse repositório](https://github.com/malufell/autenticacao-com-passport-express-session) pra compartilhar o código :)
 - 10/19/20 - Consegui interagir com o usuário: recebe usuário e senha, verifica no banco, retorna mensagens na view :)
 - 10/16/20 - Primeiros passos com EJS, Sequelize e Postgres juntos: model, seeds, controller, view, rotas... 
 - 10/15/20 - Comecei a aprender Git pelo VSCode. AINDA parece difícil, mas uma hora eu volto aqui pra rir sobre isso (quando ficar fácil kk)
@@ -52,6 +52,36 @@ Resultado: http://www.meucadernodereceitas.net/
 - 10/02/20 - Início do repositório o/
 
 :zap::zap::zap:
+
+## :books: Cursos realizados - programação
+
+- 02/01/21 - Participei a imersão React e Netx da Alura! Foi meu primeiro contato com essas tecnologias, [aqui está o resultado](https://github.com/malufell/imersao-react-alura).
+- 09/30/20 - 24º: [ORM com NodeJS: Avançando nas funcionalidades do Sequelize](https://cursos.alura.com.br/user/malufell/course/orm-nodejs-avancando-sequelize/formalCertificate)
+- 09/24/20 - 23º: [ORM com NodeJS: API com Sequelize e MySQL](https://cursos.alura.com.br/user/malufell/course/orm-nodejs-api-sequelize-mysql/formalCertificate)
+- 09/18/20 - 22º: [Git e Github: Controle e compartilhe seu código](https://cursos.alura.com.br/user/malufell/course/git-github-controle-de-versao/formalCertificate)
+- 09/17/20 - 21º: [Rest com NodeJS: API com Express e MySQL](https://cursos.alura.com.br/user/malufell/course/node-rest-api/formalCertificate) 
+- 09/14/20 - 20º: [Node.js Parte 2: MVC, autenticação e autorização](https://cursos.alura.com.br/user/malufell/course/node-mvc-autenticacao-autorizacao/formalCertificate)
+- 09/08/20 - 19º: [Node.js Parte 1: Inovando com JavaScript no backend](https://cursos.alura.com.br/user/malufell/course/nodejs-fundamentos/formalCertificate) 
+- 09/01/20 - 18º: [HTTP: Entendendo a web por baixo dos panos](https://cursos.alura.com.br/user/malufell/course/http-fundamentos/formalCertificate) 
+- 08/31/20 - 17º: [Consultas SQL: Avançando no SQL com MySQL](https://cursos.alura.com.br/user/malufell/course/mysql-consultas-sql/formalCertificate)
+- 08/28/20 - 16º: [Introdução ao SQL com MySQL](https://cursos.alura.com.br/user/malufell/course/mysql-manipule-dados-com-sql/formalCertificate) 
+- 08/26/20 - 15º: ["JavaScript: Conhecendo o Browser e padrões de projeto"](https://cursos.alura.com.br/user/malufell/course/javascript-es6-orientacao-a-objetos-parte-1/formalCertificate) e o livro ["Orientação a objetos - conceitos e aplicabilidades"](https://www.casadocodigo.com.br/products/livro-oo-conceitos) **Meu primeiro curso de nível avançado!!!**
+- 08/12/20 - 14º: ["JavaScript: Interfaces e Herança em Orientação a Objetos"](https://cursos.alura.com.br/user/malufell/course/javascript-polimorfismo/formalCertificate) 
+- 08/07/20 - 13º: ["JavaScript: Programando a Orientação a Objetos"](https://cursos.alura.com.br/user/malufell/course/javascritpt-orientacao-objetos/formalCertificate) - **Meu primeiro curso sobre orientação a objetos!!** 
+- 08/05/20 - **Completei a formação de iniciante em programação!!!!** :clap:
+- 08/05/20 - 12º: ["JavaScript: Programando na linguagem da web"](https://cursos.alura.com.br/user/malufell/course/javascript-programando-na-linguagem-web/formalCertificate)
+- 08/05/20 - 11º: ["JavaScript: primeiros passos com a linguagem"](https://cursos.alura.com.br/user/malufell/course/javascript-introducao/formalCertificate) 
+- 07/29/20 - 10º: ["Bootstrap 4: Criando uma landing page responsiva"](https://cursos.alura.com.br/user/malufell/course/bootstrap-landing-page/formalCertificate) 
+- 07/24/20 - 9º: ["Flexbox: Posicione elementos na tela"](https://cursos.alura.com.br/user/malufell/course/posicione-elementos-com-flexbox/formalCertificate) - **Meu primeiro curso de nível intermediário!!!** 
+- 07/20/20 - 8º: ["HTML5 e CSS3 parte 4: Avançando no CSS"](https://cursos.alura.com.br/user/malufell/course/html5-css3-avancando-css/formalCertificate) 
+- 07/17/20 - 7º: ["HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas"](https://cursos.alura.com.br/user/malufell/course/html5-css3-formularios-tabelas/formalCertificate) 
+- 07/16/20 - 6º: ["HTML5 e CSS3 parte 2: Posicionamento, listas e navegação"](https://cursos.alura.com.br/user/malufell/course/html5-css3-posicionamento-listas-navegacao/formalCertificate) 
+- 07/15/20 - 5º: ["HTML5 e CSS3 parte 1: A primeira página na web"](https://cursos.alura.com.br/user/malufell/course/html5-css3-primeiros-passos/formalCertificate) - **Meu primeiro curso sobre HTML e CSS!** 
+- 07/14/20 - 4º: ["Jogos clássicos parte 2: laços e listas com Javascript"](https://cursos.alura.com.br/user/malufell/course/javascript-listas-lacos/formalCertificate) 
+- 07/14/20 - 3º: ["Jogos clássicos parte 1: Iniciando no Javascript com Pong"](https://cursos.alura.com.br/user/malufell/course/pong-javascript/formalCertificate) 
+- 07/10/20 - 2º: ["Lógica de programação II: pratique com desenhos, animações e um jogo"](https://cursos.alura.com.br/user/malufell/course/logica-programacao-pratica-com-desenho-animacoes-em-jogo/formalCertificate) 
+- 07/08/20 - 1º: ["Lógica de programação I: Os primeiros programas com Javascript e HTML"](https://cursos.alura.com.br/user/malufell/course/logica-programacao-javascript-html/formalCertificate) 
+
 
 ## :books: Cursos realizados - ágil
 
@@ -63,37 +93,10 @@ Muito encantamento por soft skills também :heart:
 - 08/29/20 - [Gerenciamento de conflitos](https://cursos.alura.com.br/user/malufell/course/gestao-de-conflitos/formalCertificate)
 - 08/29/20 - [Comunicação não violenta: Consciência para agir](https://cursos.alura.com.br/user/malufell/course/comunicacao-nao-violenta/formalCertificate)
 
-## :books: Cursos realizados - programação
-
-- 9/30/20 - 24º: [ORM com NodeJS: Avançando nas funcionalidades do Sequelize](https://cursos.alura.com.br/user/malufell/course/orm-nodejs-avancando-sequelize/formalCertificate)
-- 9/24/20 - 23º: [ORM com NodeJS: API com Sequelize e MySQL](https://cursos.alura.com.br/user/malufell/course/orm-nodejs-api-sequelize-mysql/formalCertificate)
-- 9/18/20 - 22º: [Git e Github: Controle e compartilhe seu código](https://cursos.alura.com.br/user/malufell/course/git-github-controle-de-versao/formalCertificate)
-- 9/17/20 - 21º: [Rest com NodeJS: API com Express e MySQL](https://cursos.alura.com.br/user/malufell/course/node-rest-api/formalCertificate) 
-- 9/14/20 - 20º: [Node.js Parte 2: MVC, autenticação e autorização](https://cursos.alura.com.br/user/malufell/course/node-mvc-autenticacao-autorizacao/formalCertificate)
-- 9/08/20 - 19º: [Node.js Parte 1: Inovando com JavaScript no backend](https://cursos.alura.com.br/user/malufell/course/nodejs-fundamentos/formalCertificate) 
-- 9/01/20 - 18º: [HTTP: Entendendo a web por baixo dos panos](https://cursos.alura.com.br/user/malufell/course/http-fundamentos/formalCertificate) 
-- 8/31/20 - 17º: [Consultas SQL: Avançando no SQL com MySQL](https://cursos.alura.com.br/user/malufell/course/mysql-consultas-sql/formalCertificate)
-- 8/28/20 - 16º: [Introdução ao SQL com MySQL](https://cursos.alura.com.br/user/malufell/course/mysql-manipule-dados-com-sql/formalCertificate) 
-- 8/26/20 - 15º: ["JavaScript: Conhecendo o Browser e padrões de projeto"](https://cursos.alura.com.br/user/malufell/course/javascript-es6-orientacao-a-objetos-parte-1/formalCertificate) e o livro ["Orientação a objetos - conceitos e aplicabilidades"](https://www.casadocodigo.com.br/products/livro-oo-conceitos) **Meu primeiro curso de nível avançado!!!**
-- 8/12/20 - 14º: ["JavaScript: Interfaces e Herança em Orientação a Objetos"](https://cursos.alura.com.br/user/malufell/course/javascript-polimorfismo/formalCertificate) 
-- 8/07/20 - 13º: ["JavaScript: Programando a Orientação a Objetos"](https://cursos.alura.com.br/user/malufell/course/javascritpt-orientacao-objetos/formalCertificate) - **Meu primeiro curso sobre orientação a objetos!!** 
-- 8/05/20 - **Completei a formação de iniciante em programação!!!!** :clap:
-- 8/05/20 - 12º: ["JavaScript: Programando na linguagem da web"](https://cursos.alura.com.br/user/malufell/course/javascript-programando-na-linguagem-web/formalCertificate)
-- 8/05/20 - 11º: ["JavaScript: primeiros passos com a linguagem"](https://cursos.alura.com.br/user/malufell/course/javascript-introducao/formalCertificate) 
-- 7/29/20 - 10º: ["Bootstrap 4: Criando uma landing page responsiva"](https://cursos.alura.com.br/user/malufell/course/bootstrap-landing-page/formalCertificate) 
-- 7/24/20 - 9º: ["Flexbox: Posicione elementos na tela"](https://cursos.alura.com.br/user/malufell/course/posicione-elementos-com-flexbox/formalCertificate) - **Meu primeiro curso de nível intermediário!!!** 
-- 7/20/20 - 8º: ["HTML5 e CSS3 parte 4: Avançando no CSS"](https://cursos.alura.com.br/user/malufell/course/html5-css3-avancando-css/formalCertificate) 
-- 7/17/20 - 7º: ["HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas"](https://cursos.alura.com.br/user/malufell/course/html5-css3-formularios-tabelas/formalCertificate) 
-- 7/16/20 - 6º: ["HTML5 e CSS3 parte 2: Posicionamento, listas e navegação"](https://cursos.alura.com.br/user/malufell/course/html5-css3-posicionamento-listas-navegacao/formalCertificate) 
-- 7/15/20 - 5º: ["HTML5 e CSS3 parte 1: A primeira página na web"](https://cursos.alura.com.br/user/malufell/course/html5-css3-primeiros-passos/formalCertificate) - **Meu primeiro curso sobre HTML e CSS!** 
-- 7/14/20 - 4º: ["Jogos clássicos parte 2: laços e listas com Javascript"](https://cursos.alura.com.br/user/malufell/course/javascript-listas-lacos/formalCertificate) 
-- 7/14/20 - 3º: ["Jogos clássicos parte 1: Iniciando no Javascript com Pong"](https://cursos.alura.com.br/user/malufell/course/pong-javascript/formalCertificate) 
-- 7/10/20 - 2º: ["Lógica de programação II: pratique com desenhos, animações e um jogo"](https://cursos.alura.com.br/user/malufell/course/logica-programacao-pratica-com-desenho-animacoes-em-jogo/formalCertificate) 
-- 7/08/20 - 1º: ["Lógica de programação I: Os primeiros programas com Javascript e HTML"](https://cursos.alura.com.br/user/malufell/course/logica-programacao-javascript-html/formalCertificate) 
 
 ## Primeiros passos
-- 7/05/20 - Montei meu plano de estudos, com apoio do mentor [@joaoscotto](https://github.com/joaoscotto)
+- 07/05/20 - Montei meu plano de estudos, com apoio do mentor [@joaoscotto](https://github.com/joaoscotto)
 - Entre março e julho criei coragem para transição de carreira;
-- 3/13/20 - Completei 50% do curso de Lógica de Programação, aqui eu tive certeza que gostaria de trabalhar com TI! 
-- 3/13/20 - Iniciei minha conta no GitHub!
-- 2/13/20 - Comecei a estudar na [Alura](https://cursos.alura.com.br/user/malufell)!
+- 03/13/20 - Completei 50% do curso de Lógica de Programação, aqui eu tive certeza que gostaria de trabalhar com TI! 
+- 03/13/20 - Iniciei minha conta no GitHub!
+- 02/13/20 - Comecei a estudar na [Alura](https://cursos.alura.com.br/user/malufell)!
