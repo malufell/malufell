@@ -5,9 +5,11 @@
 :twisted_rightwards_arrows: Atuei na gestão de projetos, com metodologias lean, BPM e ágil - essa é a minha ponte entre os dois mundos. <br>
 
 ### O que estou fazendo:
-:seedling: Estudando JavaScript, NodeJS e algumas de suas várias bibliotecas, HTML, CSS, Bootstrap, SQL, Sequelize, Git e métodos ágeis;<br>
-:books: Tenho um plano de estudos e [registro os meus passos aqui](https://github.com/malufell/malufell/blob/main/meu-log.md), essa é uma das minhas fontes de automotivação :sweat_smile: <br>
-:muscle: Atualmente desenvolvo meu primeiro [projeto autoral](https://github.com/malufell/meu-caderno-de-receitas), fazendo a implementação completa (back e front).
+:seedling: Estudando JavaScript, NodeJS e algumas de suas várias bibliotecas, HTML, CSS, Bootstrap, SQL, Sequelize, Git e métodos ágeis;
+
+:muscle: Atualmente desenvolvo meu primeiro [projeto autoral](https://github.com/malufell/meu-caderno-de-receitas), fazendo a implementação completa (back e front). Meu projeto já está no ar! Veja o resultado: http://www.meucadernodereceitas.net/<br>
+
+:books: Tenho um plano de estudos e [registro os meus passos aqui](https://github.com/malufell/malufell/blob/main/meu-log.md), essa é uma das minhas fontes de automotivação :sweat_smile:
 
 ### :pencil: Meu processo de aprendizado:
 
