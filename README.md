@@ -11,7 +11,7 @@
 
 :books: Tenho um plano de estudos e [registro os meus passos aqui](https://github.com/malufell/malufell/blob/main/meu-log.md), essa é uma das minhas fontes de automotivação :sweat_smile:
 
-### :pencil: Meu processo de aprendizado:
+### Meu processo de aprendizado:
 
 Adoro escrever e compartilhar o que estou aprendendo me ajuda a aprofundar e assimilar conhecimentos. Estes são meus últimos textos:
 
