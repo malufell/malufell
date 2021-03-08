@@ -5,15 +5,17 @@
 :twisted_rightwards_arrows: Atuei na gestão de projetos, com metodologias lean, BPM e ágil - essa é a minha ponte entre os dois mundos. <br>
 
 ### O que estou fazendo:
-:seedling: Estudando JavaScript, NodeJS e algumas de suas várias bibliotecas, HTML, CSS, EJS, Bootstrap, SQL, Sequelize, Git e métodos ágeis;
+:seedling: Estudando React, NextJS, GraphQL;
 
-:muscle: Atualmente desenvolvo meu primeiro [projeto autoral](https://github.com/malufell/meu-caderno-de-receitas), fazendo a implementação completa (back e front). Meu projeto já está no ar! Veja o resultado: http://www.meucadernodereceitas.net/<br>
+:muscle: Enquanto praticava JavaScript, Node.js, HTML, CSS, EJS, Bootstrap e Sequelize desenvolvi meu primeiro [projeto autoral](https://github.com/malufell/meu-caderno-de-receitas), fazendo a implementação completa (back e front). 
 
-:books: Tenho um plano de estudos e [registro os meus passos aqui](https://github.com/malufell/malufell/blob/main/meu-log.md), essa é uma das minhas fontes de automotivação :sweat_smile:
+:heart_eyes: Meu projeto já está no ar! Veja o resultado: http://www.meucadernodereceitas.net/<br>
+
+
 
 ### Meu processo de aprendizado:
 
-Adoro escrever e compartilhar o que estou aprendendo me ajuda a aprofundar e assimilar conhecimentos. 
+:pencil2: Adoro escrever e compartilhar o que estou aprendendo me ajuda a aprofundar e assimilar conhecimentos. 
 
 <details>
   <summary>Estes são meus últimos textos</summary>
@@ -31,7 +33,12 @@ Adoro escrever e compartilhar o que estou aprendendo me ajuda a aprofundar e ass
 - [Meus primeiros passos com EJS](https://github.com/malufell/meu-caderno-de-receitas/wiki/3.-Primeiros-passos-com-EJS)
 - [Como criei minha página "em breve" com bootstrap e coloquei no ar com github](https://github.com/malufell/meu-caderno-de-receitas/wiki/2.-Cria%C3%A7%C3%A3o-da-p%C3%A1gina-tempor%C3%A1ria-%22em-breve%22)
 - [Definindo o caminho do meu projeto: análise de negócio, análise técnica, wireframe](https://github.com/malufell/meu-caderno-de-receitas/wiki/1.-Definindo-o-caminho)
+
+<br>
+
 </details>
+
+:books: Tenho um plano de estudos e [registro os meus passos aqui](https://github.com/malufell/malufell/blob/main/meu-log.md), essa é uma das minhas fontes de automotivação :sweat_smile:
 
 ### 📫 Onde você pode me encontrar:
 
