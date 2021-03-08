@@ -40,7 +40,7 @@
 
 :books: Tenho um plano de estudos e [registro os meus passos aqui](https://github.com/malufell/malufell/blob/main/meu-log.md), essa é uma das minhas fontes de automotivação :sweat_smile:
 
-### 📫 Onde você pode me encontrar:
+### Onde você pode me encontrar:
 
 - Sou gaúcha, atualmente morando em Blumenau/SC <br>
 - [LinkedIn](https://www.linkedin.com/in/mariafell/) <br>
