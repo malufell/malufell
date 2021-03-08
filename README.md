@@ -13,7 +13,10 @@
 
 ### Meu processo de aprendizado:
 
-Adoro escrever e compartilhar o que estou aprendendo me ajuda a aprofundar e assimilar conhecimentos. Estes são meus últimos textos:
+Adoro escrever e compartilhar o que estou aprendendo me ajuda a aprofundar e assimilar conhecimentos. 
+
+<details>
+  <summary>Estes são meus últimos textos</summary>
 
 - [Métodos build e create em tabela many-to-many](https://github.com/malufell/meu-caderno-de-receitas/wiki/d.-Create-em-tabela-many-to-many,-com-upload-de-imagem-e-inclus%C3%A3o-de-v%C3%ADdeo-do-youtube)
 - [Como criar relacionamentos entre tabelas - Sequelize (many-to-many e one-to-many)](https://github.com/malufell/meu-caderno-de-receitas/wiki/c.-Tabelas-com-relacionamentos-many-to-many-e-one-to-many)
@@ -28,6 +31,7 @@ Adoro escrever e compartilhar o que estou aprendendo me ajuda a aprofundar e ass
 - [Meus primeiros passos com EJS](https://github.com/malufell/meu-caderno-de-receitas/wiki/3.-Primeiros-passos-com-EJS)
 - [Como criei minha página "em breve" com bootstrap e coloquei no ar com github](https://github.com/malufell/meu-caderno-de-receitas/wiki/2.-Cria%C3%A7%C3%A3o-da-p%C3%A1gina-tempor%C3%A1ria-%22em-breve%22)
 - [Definindo o caminho do meu projeto: análise de negócio, análise técnica, wireframe](https://github.com/malufell/meu-caderno-de-receitas/wiki/1.-Definindo-o-caminho)
+</details>
 
 ### 📫 Onde você pode me encontrar:
 
