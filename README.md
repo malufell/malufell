@@ -5,7 +5,7 @@
 :twisted_rightwards_arrows: Atuei na gestão de projetos, com metodologias lean, BPM e ágil - essa é a minha ponte entre os dois mundos. <br>
 
 ### O que estou fazendo:
-:seedling: Estudando React, NextJS, GraphQL;
+:seedling: Estudando React, NextJS, GraphQL, TypeScript;
 
 :muscle: Enquanto praticava JavaScript, Node.js, HTML, CSS, EJS, Bootstrap e Sequelize desenvolvi meu primeiro [projeto autoral](https://github.com/malufell/meu-caderno-de-receitas), fazendo a implementação completa (back e front). 
 
