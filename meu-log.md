@@ -59,10 +59,12 @@ Resultado: http://www.meucadernodereceitas.net/
 - 07/08/20 - 1º: ["Lógica de programação I: Os primeiros programas com Javascript e HTML"](https://cursos.alura.com.br/user/malufell/course/logica-programacao-javascript-html/formalCertificate) 
 
 
-## :books: Cursos realizados - ágil
+## :books: Cursos realizados - ágil e gestão
 
 Muito encantamento por soft skills também :heart:
 
+- 03/24/21 - [Engenharia de requisitos: Da demanda ao gerenciamento](https://cursos.alura.com.br/course/engenharia-requisitos-demanda-gerenciamento)
+- 03/24/21 - [Engenharia de Requisitos: como levantar, documentar e validar](https://cursos.alura.com.br/course/engenharia-requisitos)
 - 12/19/20 - [Scrum: Agilidade em seu projeto](https://cursos.alura.com.br/user/malufell/course/agile-scrum/formalCertificate)
 - 12/05/20 - [Fundamentos de Agilidade](https://cursos.alura.com.br/user/malufell/course/fundamentos-agilidade/formalCertificate)
 - 10/24/20 - [Design Thinking: Concretizando ideias](https://cursos.alura.com.br/user/malufell/course/design-thinking-concretizando-ideias/formalCertificate)
