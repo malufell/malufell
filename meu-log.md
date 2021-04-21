@@ -24,37 +24,13 @@ Um relato para automotivação, meus principais marcos na jornada de estudante p
 
 Resultado: http://www.meucadernodereceitas.net/
 
-
-- 02/11/01 - Implementei o cloudinary, uma solução que eu encontrei para hospedagens de imagens! (inicialmente eu achei que ficaria tudo no heroku, baita engano kkk)
-- 02/11/01 - Criei uma página com um repositório de exemplo para que os visitantes vejam uma demo da aplicação.
-- **02/10/21 - Coloquei meu projeto no ar!!! com o Heroku!** E fiz uma série de pequenos ajustes após ver o projeto em produção :p 
-- 02/08/21 - Finalmente aprendi o que é dotenv kkk adicionei no meu projeto, preparando ele para ir ao ar!!
-- 02/05/21 - Implementei a criptografia de senhas, foi muito mais tranquilo do que eu imaginava \o/
-- 02/05/21 - Implementei a validação de dados das receitas, agora a seleção de categoria é uma informação obritatória! Não foi tão simples, porque a categoria está em uma tabela separada, mas resolvi utilizando um campo virtual no modelo :D 
-- 01/19/21 - Implementei a primeira versão da minha página principal do site! Ficou simples e bonito :) Também implementei a "prévia da formatação" durante um cadastro, para que o usuário possa visualizar como está ficando a lista de ingredientes e modo de preparo.
-- 01/18/21 - Implementei a paginação no caderno de receitas!! Foi um bom desafio! [Criei um repostório](https://github.com/malufell/paginacao) pra compartilhar esse código da paginação!
-- 01/12/21 - Implementei a exibição de imagens com o carrousel do bootstrap e a opção de cadastrar uma receita via foto! Tive que mexer em várias coisas pra essa implementação o/
-- 12/22/20 - Implementei o método para exclusão de receitas, utilizando um modal que ficou muito bonito <3
-- 12/22/20 - Implementei o back-end para o caderno de receitas: agora os cards buscam as informações do BD;
-- 12/15/20 - Implementei a edição de receitas, com o method override (HTTP PUT)
-- 11/30/20 - Implementei o cadastro de receitas (front e back) - aprendi sobre o multer e consegui incluir vídeo do youtube através da URL :heart_eyes:
-- 11/30/20 - Implementei o back-end para exibição de uma receita
-- 11/17/20 - Implementei a primeira versão da tela que exibirá uma receita (front-end, com bootstrap)
-- 11/16/20 - Implementei a primeira versão da tela do caderno de receitas (front-end, com bootstrap)
-- 11/06/20 - Implementei cadastro de usuários com validação de dados no modelo - aprendi que existem os hooks 
-- 10/27/20 - Implementei header e footer com layout EJS e partials
-- 10/24/20 - Implementei a autenticação de usuários com passport, express-session e connect-flash ~ foi bem desafiador!! [Criei esse repositório](https://github.com/malufell/autenticacao-com-passport-express-session) pra compartilhar o código :)
-- 10/19/20 - Consegui interagir com o usuário: recebe usuário e senha, verifica no banco, retorna mensagens na view :)
-- 10/16/20 - Primeiros passos com EJS, Sequelize e Postgres juntos: model, seeds, controller, view, rotas... 
-- 10/15/20 - Comecei a aprender Git pelo VSCode. AINDA parece difícil, mas uma hora eu volto aqui pra rir sobre isso (quando ficar fácil kk)
-- 10/06/20 - Configurei o ambiente de dev - primeira vez que eu formato um PC \o/ (sempre achei que seria mais difícil kk)
-- 10/02/20 - Configurei a página "Em breve": gh-pages, apontar domínio para o repositório, criação da página :D
-- 10/02/20 - Início do repositório o/
+- **02/10/21 - Coloquei meu projeto no ar!!! com o Heroku!**
 
 :zap::zap::zap:
 
 ## :books: Cursos realizados - tech
 
+- 03/15/21 - Comecei o curso de React Avançado, aprenderei sobre: React, NextJS, GraphQL, TypeScript, Strapi e implementação de testes.
 - 02/01/21 - Participei da imersão React e Netx da Alura! Foi meu primeiro contato com essas tecnologias e eu adorei, [aqui está o resultado](https://github.com/malufell/imersao-react-alura).
 - 09/30/20 - 24º: [ORM com NodeJS: Avançando nas funcionalidades do Sequelize](https://cursos.alura.com.br/user/malufell/course/orm-nodejs-avancando-sequelize/formalCertificate)
 - 09/24/20 - 23º: [ORM com NodeJS: API com Sequelize e MySQL](https://cursos.alura.com.br/user/malufell/course/orm-nodejs-api-sequelize-mysql/formalCertificate)
