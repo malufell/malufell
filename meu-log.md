@@ -1,3 +1,5 @@
+## Meus estudos e práticas
+
 ### :pencil: Textos onde compartilho o que aprendi:
 
 Meus gists, com conteúdo mais focados na prática:
