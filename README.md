@@ -7,34 +7,8 @@
 ### O que estou fazendo:
 - Praticando JavaScript, Node.js, HTML, CSS, EJS, Bootstrap, Postgres e Sequelize. 
 - Iniciando React, NextJS, GraphQL, TypeScript e implementação de testes com Jest.
-
-### Meu processo de aprendizado:
-
- - [Meu histórico de estudos e práticas](https://github.com/malufell/malufell/blob/main/meu-log.md), registro textos onde compartilho o que aprendi, projetos e cursos realizados.
-- [meu primeiro projeto autoral](https://github.com/malufell/meu-caderno-de-receitas) e por isso é especial, fiz a implementação completa (back e front), veja o resultado em http://www.meucadernodereceitas.net/<br>
-- Adoro escrever e compartilhar o que estou aprendendo: 
-  - [Meus Gists](https://gist.github.com/malufell), com conteúdo prático que consulto para implementações.
-   
-<details>
-  <summary>Textos com conteúdo mais detalhado</summary>
-  
-- [Métodos build e create em tabela many-to-many](https://github.com/malufell/meu-caderno-de-receitas/wiki/d.-Create-em-tabela-many-to-many)
-- [Como criar relacionamentos entre tabelas - Sequelize (many-to-many e one-to-many)](https://github.com/malufell/meu-caderno-de-receitas/wiki/c.-Tabelas-com-relacionamentos-many-to-many-e-one-to-many)
-- [Criando índice no modelo (sequelize e postgres)](https://github.com/malufell/meu-caderno-de-receitas/wiki/b.-Criando-%C3%ADndice-no-modelo-(sequelize-e-postgres))
-- [Ajustando os tipos de dados e limite de caracteres no modelo Sequelize](https://github.com/malufell/meu-caderno-de-receitas/wiki/a.-Atualizando-um-modelo-Sequelize)
-- [Como implementei o método de busca (sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/9.-Implementando-o-m%C3%A9todo-de-busca) 
-- [Como implementei o cadastro de usuários com validação de dados no back-end (com sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/8.-Cadastro-de-usu%C3%A1rios-com-valida%C3%A7%C3%A3o-de-dados-no-back-end)
-- [Autenticação de usuários com passport e express-session](https://github.com/malufell/autenticacao-com-passport-express-session) :heart: 
-- [Interagindo com o usuário - método POST e findOne (sequelize)](https://github.com/malufell/meu-caderno-de-receitas/wiki/6.-Interagindo-com-o-usu%C3%A1rio,-POST-e-findOne)
-- [EJS e Sequelize juntos!](https://github.com/malufell/meu-caderno-de-receitas/wiki/5.-EJS-e-Sequelize-juntos)
-- [Configurações para uso do Sequelize com o PostgreSQL](https://github.com/malufell/meu-caderno-de-receitas/wiki/4.-Sequelize-com-PostgreSQL)
-- [Meus primeiros passos com EJS](https://github.com/malufell/meu-caderno-de-receitas/wiki/3.-Primeiros-passos-com-EJS)
-- [Como criei minha página "em breve" com bootstrap e coloquei no ar com github](https://github.com/malufell/meu-caderno-de-receitas/wiki/2.-Cria%C3%A7%C3%A3o-da-p%C3%A1gina-tempor%C3%A1ria-%22em-breve%22)
-- [Definindo o caminho do meu projeto: análise de negócio, análise técnica, wireframe](https://github.com/malufell/meu-caderno-de-receitas/wiki/1.-Definindo-o-caminho)
-
-<br>
-
-</details>
+- [Este é meu histórico de estudos e práticas](https://github.com/malufell/malufell/blob/main/meu-log.md), onde registro textos com o que estou praticando, projetos e cursos realizados.
+- [Este foi meu primeiro projeto autoral](https://github.com/malufell/meu-caderno-de-receitas) e por isso é especial, fiz a implementação completa (back e front), veja o resultado em http://www.meucadernodereceitas.net/<br>
 
 ### Onde você pode me encontrar:
 
