@@ -1,9 +1,14 @@
-# Passos importantes na minha jornada de estudante:
+### :pencil: Textos onde compartilho o que aprendi:
 
-Um relato para automotivação, meus principais marcos na jornada de estudante para transição de carreira! :smiley: 
+Meus gists, com conteúdo mais focados na prática:
+- [Sequelize relação one-to-many, exemplo com métodos](https://gist.github.com/malufell/409efcef2eb7d12bcb1d0a97da635424)
+- [Exemplo axios](https://gist.github.com/malufell/81091ab51351ec60d73af20c0fe5566d)
+- [Exemplo de requisição ajax](https://gist.github.com/malufell/ac66653f13e6a6e847978b11c35a21e7)
+- [Comandos Sequelize](https://gist.github.com/malufell/3a4955f46f6a8ab073981d3461a5380a)
+- [Como colocar um projeto no ar com heroku e postgres](https://gist.github.com/malufell/097a0dd9bfb6e88bba08a1e877ab6662)
 
-## :pencil: Textos onde compartilho o que aprendi
-
+Textos com conteúdo mais detalhado:
+- [Paginação em tabela many-to-many (sequelize)](https://github.com/malufell/paginacao)
 - [Métodos build e create em tabela many-to-many](https://github.com/malufell/meu-caderno-de-receitas/wiki/d.-Create-em-tabela-many-to-many,-com-upload-de-imagem-e-inclus%C3%A3o-de-v%C3%ADdeo-do-youtube)
 - [Como criar relacionamentos entre tabelas - Sequelize (many-to-many e one-to-many)](https://github.com/malufell/meu-caderno-de-receitas/wiki/c.-Tabelas-com-relacionamentos-many-to-many-e-one-to-many)
 - [Criando índice no modelo (sequelize e postgres)](https://github.com/malufell/meu-caderno-de-receitas/wiki/b.-Criando-%C3%ADndice-no-modelo-(sequelize-e-postgres))
@@ -18,19 +23,37 @@ Um relato para automotivação, meus principais marcos na jornada de estudante p
 - [Como criei minha página "em breve" com bootstrap e coloquei no ar com github](https://github.com/malufell/meu-caderno-de-receitas/wiki/2.-Cria%C3%A7%C3%A3o-da-p%C3%A1gina-tempor%C3%A1ria-%22em-breve%22)
 - [Definindo o caminho do meu projeto: análise de negócio, análise técnica, wireframe](https://github.com/malufell/meu-caderno-de-receitas/wiki/1.-Definindo-o-caminho)
 
-## :muscle: Meu primeiro projeto autoral
+---
+### Projetos
 
-[Meu caderno de receitas](https://github.com/malufell/meu-caderno-de-receitas)
+- Meu primeiro projeto autoral: http://www.meucadernodereceitas.net/ :heart:
+  - Repositório: [Meu caderno de receitas](https://github.com/malufell/meu-caderno-de-receitas)
+  - Tecologias utilizadas: node.js, sequelize, postgres, EJS e bootstrap! Algumas das diversas bibliotecas do node.js que utilizei: bcrypt, body-parser, cloudinary, connect-flash, dotenv, express, method-override, multer, multer-storage-cloudinary, nodemon, passport, uuid.<br>
+- Em desenvolvimento: site beneficente para associação Amigo Down, [site](https://malufell.github.io/amigo-down/) e [repositório](https://github.com/malufell/amigo-down)
+  - conteúdo estático, utilizando gulp, HTML, CSS, Bootstrap 
+- Aplicação para cadastro e relatório de anúncios: [projeto no ar](https://cadastro-anuncios.herokuapp.com/) e [repositório](https://github.com/malufell/cadastro-anuncios)
+  - app em node.js, com express, postgres, sequelize, EJS e bootstrap, jest
+  - estruturado com services
+  - contempla testes unitários
+- Aplicação para controle de operações de câmbio e relatório das operações cadastradas: [projeto no ar](https://controle-operacoes-cambio.herokuapp.com/) e [repositório](https://github.com/malufell/controle-operacoes-cambio)
+  - app em node.js, com express, postgres, sequelize, EJS e bootstrap, jest
+  - uso do axios para buscar dados de moedas de API externa
+  - requisições ajax para deixar o front dinâmico
+  - tabelas com relacionamento one-to-many
 
-Resultado: http://www.meucadernodereceitas.net/
+<br>
 
-- **02/10/21 - Coloquei meu projeto no ar!!! com o Heroku!**
+- Em desenvolvimento: react, client do ecommerce de uma loja de jogos - [repositório](https://github.com/malufell/react-avancado-client)
+  - desenvolvido durante o curso de react avançado, contemplando NextJS, GraphQL, TypeScript e implementação de testes.
+- API para o ecommerce, back-end criado com o Strapi: [repositório](https://github.com/malufell/react-avancado-api), faz parte do curso de React Avançado 
+- Meu primeiro contato com React: [resultado](https://imersao-react-alura-malufell.vercel.app/) e [repositório](https://github.com/malufell/imersao-react-alura)
+  - projeto construído durante a Imersão React edição NextJS da Alura
+  - quiz da série How I Met Your Mother
+---
 
-:zap::zap::zap:
+### :books: Cursos realizados - tech:
 
-## :books: Cursos realizados - tech
-
-- 03/15/21 - Comecei o curso de React Avançado, aprenderei sobre: React, NextJS, GraphQL, TypeScript, Strapi e implementação de testes.
+- 03/15/21 - Comecei o curso de React Avançado, conteúdo: React, NextJS, GraphQL, TypeScript, Strapi e implementação de testes.
 - 02/01/21 - Participei da imersão React e Netx da Alura! Foi meu primeiro contato com essas tecnologias e eu adorei, [aqui está o resultado](https://github.com/malufell/imersao-react-alura).
 - 09/30/20 - 24º: [ORM com NodeJS: Avançando nas funcionalidades do Sequelize](https://cursos.alura.com.br/user/malufell/course/orm-nodejs-avancando-sequelize/formalCertificate)
 - 09/24/20 - 23º: [ORM com NodeJS: API com Sequelize e MySQL](https://cursos.alura.com.br/user/malufell/course/orm-nodejs-api-sequelize-mysql/formalCertificate)
@@ -59,7 +82,7 @@ Resultado: http://www.meucadernodereceitas.net/
 - 07/08/20 - 1º: ["Lógica de programação I: Os primeiros programas com Javascript e HTML"](https://cursos.alura.com.br/user/malufell/course/logica-programacao-javascript-html/formalCertificate) 
 
 
-## :books: Cursos realizados - ágil e gestão
+### :books: Cursos realizados - ágil e gestão:
 
 Muito encantamento por soft skills também :heart:
 
@@ -71,8 +94,9 @@ Muito encantamento por soft skills também :heart:
 - 08/29/20 - [Gerenciamento de conflitos](https://cursos.alura.com.br/user/malufell/course/gestao-de-conflitos/formalCertificate)
 - 08/29/20 - [Comunicação não violenta: Consciência para agir](https://cursos.alura.com.br/user/malufell/course/comunicacao-nao-violenta/formalCertificate)
 
+---
 
-## Primeiros passos
+### Primeiros passos:
 - 07/05/20 - Montei meu plano de estudos, com apoio do mentor [@joaoscotto](https://github.com/joaoscotto)
 - Entre março e julho criei coragem para transição de carreira;
 - 03/13/20 - Completei 50% do curso de Lógica de Programação, aqui eu tive certeza que gostaria de trabalhar com TI! 
