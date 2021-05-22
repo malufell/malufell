@@ -28,29 +28,37 @@ Textos com conteúdo mais detalhado:
 ---
 ### Projetos
 
-- Meu primeiro projeto autoral: http://www.meucadernodereceitas.net/ :heart:
-  - Repositório: [Meu caderno de receitas](https://github.com/malufell/meu-caderno-de-receitas)
-  - Tecologias utilizadas: node.js, sequelize, postgres, EJS e bootstrap! Algumas das diversas bibliotecas do node.js que utilizei: bcrypt, body-parser, cloudinary, connect-flash, dotenv, express, method-override, multer, multer-storage-cloudinary, nodemon, passport, uuid.<br>
-- Em desenvolvimento: site beneficente para associação Amigo Down, [site](https://malufell.github.io/amigo-down/) e [repositório](https://github.com/malufell/amigo-down)
-  - conteúdo estático, utilizando gulp, HTML, CSS, Bootstrap 
+- Meu primeiro projeto autoral: http://www.meucadernodereceitas.net/ :heart:, [repositório aqui.](https://github.com/malufell/meu-caderno-de-receitas) 
+  - app em node.js, com sequelize, postgres, EJS e bootstrap! Algumas das diversas bibliotecas do node.js que utilizei: bcrypt, body-parser, cloudinary, connect-flash, dotenv, express, method-override, multer, multer-storage-cloudinary, nodemon, passport, uuid.
+  - aplicação web para registro e gestão de receitas culinárias.
+<br>
+
 - Aplicação para cadastro e relatório de anúncios: [projeto no ar](https://cadastro-anuncios.herokuapp.com/) e [repositório](https://github.com/malufell/cadastro-anuncios)
   - app em node.js, com express, postgres, sequelize, EJS e bootstrap, jest
   - estruturado com services
   - contempla testes unitários
-- Aplicação para controle de operações de câmbio e relatório das operações cadastradas: [projeto no ar](https://controle-operacoes-cambio.herokuapp.com/) e [repositório](https://github.com/malufell/controle-operacoes-cambio)
-  - app em node.js, com express, postgres, sequelize, EJS e bootstrap, jest
-  - uso do axios para buscar dados de moedas de API externa
-  - requisições ajax para deixar o front dinâmico
-  - tabelas com relacionamento one-to-many
-
 <br>
 
-- Em desenvolvimento: react, client do ecommerce de uma loja de jogos - [repositório](https://github.com/malufell/react-avancado-client)
-  - desenvolvido durante o curso de react avançado, contemplando NextJS, GraphQL, TypeScript e implementação de testes.
-- API para o ecommerce, back-end criado com o Strapi: [repositório](https://github.com/malufell/react-avancado-api), faz parte do curso de React Avançado 
-- Meu primeiro contato com React: [resultado](https://imersao-react-alura-malufell.vercel.app/) e [repositório](https://github.com/malufell/imersao-react-alura)
+- Aplicação para controle de operações de câmbio e relatório das operações cadastradas: [projeto no ar](https://controle-operacoes-cambio.herokuapp.com/) e [repositório](https://github.com/malufell/controle-operacoes-cambio)
+  - app em node.js, com express, postgres, sequelize, EJS e bootstrap, jest
+<br>
+
+- Em desenvolvimento: site beneficente para associação Amigo Down, [site](https://malufell.github.io/amigo-down/) e [repositório](https://github.com/malufell/amigo-down)
+  - conteúdo estático, utilizando gulp, HTML, CSS, Bootstrap 
+<br>
+
+- Em desenvolvimento: com React, client do ecommerce de uma loja de jogos - [repositório](https://github.com/malufell/react-avancado-client)
+  - desenvolvido no curso de react avançado
+  - contempla NextJS, GraphQL, TypeScript e implementação de testes
+<br>
+
+- API para o ecommerce da loja de jogos: [repositório](https://github.com/malufell/react-avancado-api)
+  - back-end criado com CMS Strapi
+<br>
+
+- React: quiz da série How I Met Your Mother, [resultado](https://imersao-react-alura-malufell.vercel.app/) e [repositório](https://github.com/malufell/imersao-react-alura)
+  - meu primeiro contato com React
   - projeto construído durante a Imersão React edição NextJS da Alura
-  - quiz da série How I Met Your Mother
 ---
 
 ### :books: Cursos realizados - tech:
