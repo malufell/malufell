@@ -11,7 +11,7 @@ Meus gists, com conteúdo mais focados na prática:
 
 Textos com conteúdo mais detalhado:
 - [Paginação em tabela many-to-many (sequelize)](https://github.com/malufell/paginacao)
-- [Métodos build e create em tabela many-to-many](https://github.com/malufell/meu-caderno-de-receitas/wiki/d.-Create-em-tabela-many-to-many,-com-upload-de-imagem-e-inclus%C3%A3o-de-v%C3%ADdeo-do-youtube)
+- [Métodos build e create em tabela many-to-many](https://github.com/malufell/meu-caderno-de-receitas/wiki/d.-Create-em-tabela-many-to-many)
 - [Como criar relacionamentos entre tabelas - Sequelize (many-to-many e one-to-many)](https://github.com/malufell/meu-caderno-de-receitas/wiki/c.-Tabelas-com-relacionamentos-many-to-many-e-one-to-many)
 - [Criando índice no modelo (sequelize e postgres)](https://github.com/malufell/meu-caderno-de-receitas/wiki/b.-Criando-%C3%ADndice-no-modelo-(sequelize-e-postgres))
 - [Ajustando os tipos de dados e limite de caracteres no modelo Sequelize](https://github.com/malufell/meu-caderno-de-receitas/wiki/a.-Atualizando-um-modelo-Sequelize)
