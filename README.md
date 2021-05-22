@@ -5,8 +5,8 @@
 :twisted_rightwards_arrows: Atuei na gestão de projetos, com metodologias lean, BPM e ágil - essa é a minha ponte entre os dois mundos. <br>
 
 ### O que estou fazendo:
-- Praticando JavaScript, Node.js, HTML, CSS, EJS, Bootstrap e Sequelize. 
-- Iniciando React, NextJS, GraphQL, TypeScript e implementação de testes.
+- Praticando JavaScript, Node.js, HTML, CSS, EJS, Bootstrap, Postgres e Sequelize. 
+- Iniciando React, NextJS, GraphQL, TypeScript e implementação de testes com Jest.
 
 ### Meu processo de aprendizado:
 
