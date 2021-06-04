@@ -30,7 +30,16 @@ Textos com conteúdo mais detalhado:
 
 - Meu primeiro projeto autoral: http://www.meucadernodereceitas.net/ :heart:, [repositório aqui.](https://github.com/malufell/meu-caderno-de-receitas) 
   - app em node.js, com sequelize, postgres, EJS e bootstrap! Algumas das diversas bibliotecas do node.js que utilizei: bcrypt, body-parser, cloudinary, connect-flash, dotenv, express, method-override, multer, multer-storage-cloudinary, nodemon, passport, uuid.
-  - aplicação web para registro e gestão de receitas culinárias.
+  - aplicação web para registro e gestão de receitas culinárias
+  - possui autenticação de usuários com seção 
+
+<br>
+
+- API Rest no padrão repositories, [repositório](https://github.com/malufell/api-rest-repositories)
+  - app em node.js, com express, mySQL, biblioteca momentJS para validação de datas
+  - padrão Repositories, que separa a camada de dados do model, passando informações com promises
+  - consome uma API interna que faz a geração de dados ficticios com o faker
+  - upload de imagens com stream
 <br>
 
 - Aplicação para cadastro e relatório de anúncios: [projeto no ar](https://cadastro-anuncios.herokuapp.com/) e [repositório](https://github.com/malufell/cadastro-anuncios)
@@ -41,6 +50,7 @@ Textos com conteúdo mais detalhado:
 
 - Aplicação para controle de operações de câmbio e relatório das operações cadastradas: [projeto no ar](https://controle-operacoes-cambio.herokuapp.com/) e [repositório](https://github.com/malufell/controle-operacoes-cambio)
   - app em node.js, com express, postgres, sequelize, EJS e bootstrap, jest
+  - busca dados de uma API externa para exibir o nome das moedas que podem ser cadastradas
 <br>
 
 - Em desenvolvimento: site beneficente para associação Amigo Down, [site](https://malufell.github.io/amigo-down/) e [repositório](https://github.com/malufell/amigo-down)
