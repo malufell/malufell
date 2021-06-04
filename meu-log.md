@@ -1,29 +1,24 @@
 ## Meus estudos e práticas
 
-### :pencil: Textos onde compartilho o que aprendi:
+### :pencil: Textos onde registro o que aprendi:
 
-Meus gists, com conteúdo mais focados na prática:
-- [Sequelize relação one-to-many, exemplo com métodos](https://gist.github.com/malufell/409efcef2eb7d12bcb1d0a97da635424)
-- [Exemplo axios](https://gist.github.com/malufell/81091ab51351ec60d73af20c0fe5566d)
-- [Exemplo de requisição ajax](https://gist.github.com/malufell/ac66653f13e6a6e847978b11c35a21e7)
-- [Comandos Sequelize](https://gist.github.com/malufell/3a4955f46f6a8ab073981d3461a5380a)
-- [Como colocar um projeto no ar com heroku e postgres](https://gist.github.com/malufell/097a0dd9bfb6e88bba08a1e877ab6662)
+- [Meus gists](https://gist.github.com/malufell), com conteúdo mais focados na prática.
 
-Textos com conteúdo mais detalhado:
-- [Paginação em tabela many-to-many (sequelize)](https://github.com/malufell/paginacao)
-- [Métodos build e create em tabela many-to-many](https://github.com/malufell/meu-caderno-de-receitas/wiki/d.-Create-em-tabela-many-to-many)
-- [Como criar relacionamentos entre tabelas - Sequelize (many-to-many e one-to-many)](https://github.com/malufell/meu-caderno-de-receitas/wiki/c.-Tabelas-com-relacionamentos-many-to-many-e-one-to-many)
-- [Criando índice no modelo (sequelize e postgres)](https://github.com/malufell/meu-caderno-de-receitas/wiki/b.-Criando-%C3%ADndice-no-modelo-(sequelize-e-postgres))
-- [Ajustando os tipos de dados e limite de caracteres no modelo Sequelize](https://github.com/malufell/meu-caderno-de-receitas/wiki/a.-Atualizando-um-modelo-Sequelize)
-- [Como implementei o método de busca (sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/9.-Implementando-o-m%C3%A9todo-de-busca) 
-- [Como implementei o cadastro de usuários com validação de dados no back-end (com sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/8.-Cadastro-de-usu%C3%A1rios-com-valida%C3%A7%C3%A3o-de-dados-no-back-end)
-- [Autenticação de usuários com passport e express-session](https://github.com/malufell/autenticacao-com-passport-express-session) :heart: 
-- [Interagindo com o usuário - método POST e findOne (sequelize)](https://github.com/malufell/meu-caderno-de-receitas/wiki/6.-Interagindo-com-o-usu%C3%A1rio,-POST-e-findOne)
-- [EJS e Sequelize juntos!](https://github.com/malufell/meu-caderno-de-receitas/wiki/5.-EJS-e-Sequelize-juntos)
-- [Configurações para uso do Sequelize com o PostgreSQL](https://github.com/malufell/meu-caderno-de-receitas/wiki/4.-Sequelize-com-PostgreSQL)
-- [Meus primeiros passos com EJS](https://github.com/malufell/meu-caderno-de-receitas/wiki/3.-Primeiros-passos-com-EJS)
-- [Como criei minha página "em breve" com bootstrap e coloquei no ar com github](https://github.com/malufell/meu-caderno-de-receitas/wiki/2.-Cria%C3%A7%C3%A3o-da-p%C3%A1gina-tempor%C3%A1ria-%22em-breve%22)
-- [Definindo o caminho do meu projeto: análise de negócio, análise técnica, wireframe](https://github.com/malufell/meu-caderno-de-receitas/wiki/1.-Definindo-o-caminho)
+- Textos com conteúdo mais detalhado:
+  - [Paginação em tabela many-to-many (sequelize)](https://github.com/malufell/paginacao)
+  - [Métodos build e create em tabela many-to-many](https://github.com/malufell/meu-caderno-de-receitas/wiki/d.-Create-em-tabela-many-to-many)
+  - [Como criar relacionamentos entre tabelas - Sequelize (many-to-many e one-to-many)](https://github.com/malufell/meu-caderno-de-receitas/wiki/c.-Tabelas-com-relacionamentos-many-to-many-e-one-to-many)
+  - [Criando índice no modelo (sequelize e postgres)](https://github.com/malufell/meu-caderno-de-receitas/wiki/b.-Criando-%C3%ADndice-no-modelo-(sequelize-e-postgres))
+  - [Ajustando os tipos de dados e limite de caracteres no modelo Sequelize](https://github.com/malufell/meu-caderno-de-receitas/wiki/a.-Atualizando-um-modelo-Sequelize)
+  - [Como implementei o método de busca (sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/9.-Implementando-o-m%C3%A9todo-de-busca) 
+  - [Como implementei o cadastro de usuários com validação de dados no back-end (com sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/8.-Cadastro-de-usu%C3%A1rios-com-valida%C3%A7%C3%A3o-de-dados-no-back-end)
+  - [Autenticação de usuários com passport e express-session](https://github.com/malufell/autenticacao-com-passport-express-session) :heart: 
+  - [Interagindo com o usuário - método POST e findOne (sequelize)](https://github.com/malufell/meu-caderno-de-receitas/wiki/6.-Interagindo-com-o-usu%C3%A1rio,-POST-e-findOne)
+  - [EJS e Sequelize juntos!](https://github.com/malufell/meu-caderno-de-receitas/wiki/5.-EJS-e-Sequelize-juntos)
+  - [Configurações para uso do Sequelize com o PostgreSQL](https://github.com/malufell/meu-caderno-de-receitas/wiki/4.-Sequelize-com-PostgreSQL)
+  - [Meus primeiros passos com EJS](https://github.com/malufell/meu-caderno-de-receitas/wiki/3.-Primeiros-passos-com-EJS)
+  - [Como criei minha página "em breve" com bootstrap e coloquei no ar com github](https://github.com/malufell/meu-caderno-de-receitas/wiki/2.-Cria%C3%A7%C3%A3o-da-p%C3%A1gina-tempor%C3%A1ria-%22em-breve%22)
+  - [Definindo o caminho do meu projeto: análise de negócio, análise técnica, wireframe](https://github.com/malufell/meu-caderno-de-receitas/wiki/1.-Definindo-o-caminho)
 
 ---
 ### Projetos
