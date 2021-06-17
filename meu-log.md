@@ -2,9 +2,11 @@
 
 ### :pencil: Textos onde registro o que aprendi:
 
-- [Meus gists](https://gist.github.com/malufell), com conteúdo mais focados na prática.
+:small_blue_diamond: [Meus gists](https://gist.github.com/malufell), com conteúdo mais focados na prática.
 
-- Textos com conteúdo mais detalhado:
+<details>
+  <summary>Textos com conteúdo mais detalhado.</summary>
+  
   - [Paginação em tabela many-to-many (sequelize)](https://github.com/malufell/paginacao)
   - [Métodos build e create em tabela many-to-many](https://github.com/malufell/meu-caderno-de-receitas/wiki/d.-Create-em-tabela-many-to-many)
   - [Como criar relacionamentos entre tabelas - Sequelize (many-to-many e one-to-many)](https://github.com/malufell/meu-caderno-de-receitas/wiki/c.-Tabelas-com-relacionamentos-many-to-many-e-one-to-many)
@@ -19,6 +21,7 @@
   - [Meus primeiros passos com EJS](https://github.com/malufell/meu-caderno-de-receitas/wiki/3.-Primeiros-passos-com-EJS)
   - [Como criei minha página "em breve" com bootstrap e coloquei no ar com github](https://github.com/malufell/meu-caderno-de-receitas/wiki/2.-Cria%C3%A7%C3%A3o-da-p%C3%A1gina-tempor%C3%A1ria-%22em-breve%22)
   - [Definindo o caminho do meu projeto: análise de negócio, análise técnica, wireframe](https://github.com/malufell/meu-caderno-de-receitas/wiki/1.-Definindo-o-caminho)
+</details>
 
 ---
 ### Projetos
@@ -68,6 +71,18 @@
 
 ### :books: Cursos realizados - tech:
 
+
+- [formação node.js com express_alura.pdf](https://github.com/malufell/malufell/files/6673472/formacao.node.js.com.express_alura.pdf)
+- [formação iniciante em programação_alura.pdf](https://github.com/malufell/malufell/files/6673471/formacao.iniciante.em.programacao_alura.pdf)
+
+<br>
+
+- 06/17/21 - **Completei a formação de Node.js com Express, 110 horas de curso!** :clap:
+- 06/17/21 - [NodeJS: Controle de acesso e autorização com RBAC](https://cursos.alura.com.br/course/nodejs-controle-acesso-autorizacao-rbac)
+- 06/15/21 - [Node.js: Refresh Tokens e confirmação de cadastro](https://cursos.alura.com.br/course/nodejs-refresh-tokens-confirmacao-cadastro)
+- 06/10/21 - [Node.js e JWT: autenticação com tokens](https://cursos.alura.com.br/course/node-jwt-autenticacao-tokens)
+- 06/08/21 - [NodeJS: Avançando em APIs REST com controle de versões](https://cursos.alura.com.br/course/nodejs-api-rest-controle-versao)
+- 06/04/21 - [NodeJS: Crie uma API REST padronizada e escalável](https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel)
 - 06/02/21 - [NodeJS: Streaming de dados e Repositório](https://cursos.alura.com.br/course/nodejs-streaming-dados)
 - 03/15/21 - Comecei o curso de React Avançado, conteúdo: React, NextJS, GraphQL, TypeScript, Strapi e implementação de testes.
 - 02/01/21 - Participei da imersão React e Netx da Alura! Foi meu primeiro contato com essas tecnologias e eu adorei, [aqui está o resultado](https://github.com/malufell/imersao-react-alura).
@@ -83,7 +98,7 @@
 - 08/26/20 - 15º: ["JavaScript: Conhecendo o Browser e padrões de projeto"](https://cursos.alura.com.br/user/malufell/course/javascript-es6-orientacao-a-objetos-parte-1/formalCertificate) e o livro ["Orientação a objetos - conceitos e aplicabilidades"](https://www.casadocodigo.com.br/products/livro-oo-conceitos) **Meu primeiro curso de nível avançado!!!**
 - 08/12/20 - 14º: ["JavaScript: Interfaces e Herança em Orientação a Objetos"](https://cursos.alura.com.br/user/malufell/course/javascript-polimorfismo/formalCertificate) 
 - 08/07/20 - 13º: ["JavaScript: Programando a Orientação a Objetos"](https://cursos.alura.com.br/user/malufell/course/javascritpt-orientacao-objetos/formalCertificate) - **Meu primeiro curso sobre orientação a objetos!!** 
-- 08/05/20 - **Completei a formação de iniciante em programação!!!!** :clap:
+- 08/05/20 - **Completei a formação de iniciante em programação - 110 horas de aulas!!!!** :clap:
 - 08/05/20 - 12º: ["JavaScript: Programando na linguagem da web"](https://cursos.alura.com.br/user/malufell/course/javascript-programando-na-linguagem-web/formalCertificate)
 - 08/05/20 - 11º: ["JavaScript: primeiros passos com a linguagem"](https://cursos.alura.com.br/user/malufell/course/javascript-introducao/formalCertificate) 
 - 07/29/20 - 10º: ["Bootstrap 4: Criando uma landing page responsiva"](https://cursos.alura.com.br/user/malufell/course/bootstrap-landing-page/formalCertificate) 
