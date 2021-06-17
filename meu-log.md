@@ -26,47 +26,68 @@
 ---
 ### Projetos
 
-- Meu primeiro projeto autoral: http://www.meucadernodereceitas.net/ :heart:, [repositório aqui.](https://github.com/malufell/meu-caderno-de-receitas) 
-  - app em node.js, com sequelize, postgres, EJS e bootstrap! Algumas das diversas bibliotecas do node.js que utilizei: bcrypt, body-parser, cloudinary, connect-flash, dotenv, express, method-override, multer, multer-storage-cloudinary, nodemon, passport, uuid.
-  - aplicação web para registro e gestão de receitas culinárias
-  - possui autenticação de usuários com seção 
+- [Meu primeiro projeto autoral](https://github.com/malufell/meu-caderno-de-receitas): http://www.meucadernodereceitas.net/ :heart:
+  - app em node.js, com sequelize, postgres, EJS e bootstrap! Bibliotecas utilizadas: bcrypt, body-parser, cloudinary, connect-flash, dotenv, express, method-override, multer, multer-storage-cloudinary, nodemon, passport, uuid.
+  - aplicação web para registro e gestão de receitas culinárias, no ar com o heroku
+  - possui autenticação de usuários
 
 <br>
 
-- API Rest no padrão repositories, [repositório](https://github.com/malufell/api-rest-repositories)
-  - app em node.js, com express, mySQL, biblioteca momentJS para validação de datas
+- [API focada em segurança: autenticação com tokens, controle de acessos e atributos por cargos](https://github.com/malufell/autenticacao-com-tokens)
+  - em node.js, com express, sqlite3, redis, bcrypt, jsonwebtoken, passport-http-bearer, passport-local, nodemailer, accesscontrol
+  - implementa autenticação com tokens (access token e refresh token)
+  - implementa controle de acessos e atributos por Cargos com o accesscontrol
+  - implementa confirmação de cadastro por email e recurso 'esqueci minha senha' 
+
+<br>
+
+- [API Rest - aprofundando http](https://github.com/malufell/api-rest-aprofundando-http)
+  - em node.js, com express, mySQL, sequelize, jsontoxml
+  - projeto focado nos métodos HTTP e cabeçalhos das requisições: CORS, OPTIONS, inclusão de infos customizadas 
+  - rotas seguindo hierarquia de dados: coleção > documento da coleção > sub-coleção > doc. da sub-coleção > ação no doc.
+  - tratamento de erros centralizado em um middleware com mapeamento das principais exceções
+  - serialização de respostas, configurando campos públicos e campos adicionais para as respostas da API
+  - versionamento de rotas
+  - respostas da API no formato JSON ou XML
+
+<br>
+
+- [API Rest no padrão repositories](https://github.com/malufell/api-rest-repositories)
+  - em node.js, com express, mySQL, biblioteca momentJS para validação de datas
   - padrão Repositories, que separa a camada de dados do model, passando informações com promises
   - consome uma API interna que faz a geração de dados ficticios com o faker
   - upload de imagens com stream
 <br>
 
-- Aplicação para cadastro e relatório de anúncios: [projeto no ar](https://cadastro-anuncios.herokuapp.com/) e [repositório](https://github.com/malufell/cadastro-anuncios)
+- [Aplicação para cadastro e relatório de anúncios](https://github.com/malufell/cadastro-anuncios): [projeto no ar](https://cadastro-anuncios.herokuapp.com/)
   - app em node.js, com express, postgres, sequelize, EJS e bootstrap, jest
   - estruturado com services
   - contempla testes unitários
 <br>
 
-- Aplicação para controle de operações de câmbio e relatório das operações cadastradas: [projeto no ar](https://controle-operacoes-cambio.herokuapp.com/) e [repositório](https://github.com/malufell/controle-operacoes-cambio)
+- [Aplicação para controle de operações de câmbio e relatório das operações cadastradas](https://github.com/malufell/controle-operacoes-cambio): [projeto no ar](https://controle-operacoes-cambio.herokuapp.com/)
   - app em node.js, com express, postgres, sequelize, EJS e bootstrap, jest
   - busca dados de uma API externa para exibir o nome das moedas que podem ser cadastradas
 <br>
 
-- Em desenvolvimento: site beneficente para associação Amigo Down, [site](https://malufell.github.io/amigo-down/) e [repositório](https://github.com/malufell/amigo-down)
+- Em desenvolvimento: [site beneficente para associação Amigo Down](https://github.com/malufell/amigo-down)
   - conteúdo estático, utilizando gulp, HTML, CSS, Bootstrap 
+  - [site aqui](https://malufell.github.io/amigo-down/)
 <br>
 
-- Em desenvolvimento: com React, client do ecommerce de uma loja de jogos - [repositório](https://github.com/malufell/react-avancado-client)
+- Em desenvolvimento: [ecommerce de uma loja de jogos](https://github.com/malufell/react-avancado-client)
   - desenvolvido no curso de react avançado
   - contempla NextJS, GraphQL, TypeScript e implementação de testes
 <br>
 
-- API para o ecommerce da loja de jogos: [repositório](https://github.com/malufell/react-avancado-api)
+- [API para o ecommerce da loja de jogos](https://github.com/malufell/react-avancado-api):
   - back-end criado com CMS Strapi
 <br>
 
-- React: quiz da série How I Met Your Mother, [resultado](https://imersao-react-alura-malufell.vercel.app/) e [repositório](https://github.com/malufell/imersao-react-alura)
+- React: [quiz da série How I Met Your Mother](https://github.com/malufell/imersao-react-alura)
   - meu primeiro contato com React
   - projeto construído durante a Imersão React edição NextJS da Alura
+  - [resultado no ar com a vercel](https://imersao-react-alura-malufell.vercel.app/)
 ---
 
 ### :books: Cursos realizados - tech:
