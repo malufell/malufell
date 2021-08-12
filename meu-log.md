@@ -1,30 +1,4 @@
-## Meus estudos e práticas
-
-### :pencil: Textos onde registro o que aprendi:
-
-:small_blue_diamond: [Meus gists](https://gist.github.com/malufell), com conteúdo mais focados na prática.
-
-<details>
-  <summary>Textos com conteúdo mais detalhado.</summary>
-  
-  - [Paginação em tabela many-to-many (sequelize)](https://github.com/malufell/paginacao)
-  - [Métodos build e create em tabela many-to-many](https://github.com/malufell/meu-caderno-de-receitas/wiki/d.-Create-em-tabela-many-to-many)
-  - [Como criar relacionamentos entre tabelas - Sequelize (many-to-many e one-to-many)](https://github.com/malufell/meu-caderno-de-receitas/wiki/c.-Tabelas-com-relacionamentos-many-to-many-e-one-to-many)
-  - [Criando índice no modelo (sequelize e postgres)](https://github.com/malufell/meu-caderno-de-receitas/wiki/b.-Criando-%C3%ADndice-no-modelo-(sequelize-e-postgres))
-  - [Ajustando os tipos de dados e limite de caracteres no modelo Sequelize](https://github.com/malufell/meu-caderno-de-receitas/wiki/a.-Atualizando-um-modelo-Sequelize)
-  - [Como implementei o método de busca (sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/9.-Implementando-o-m%C3%A9todo-de-busca) 
-  - [Como implementei o cadastro de usuários com validação de dados no back-end (com sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/8.-Cadastro-de-usu%C3%A1rios-com-valida%C3%A7%C3%A3o-de-dados-no-back-end)
-  - [Autenticação de usuários com passport e express-session](https://github.com/malufell/autenticacao-com-passport-express-session) :heart: 
-  - [Interagindo com o usuário - método POST e findOne (sequelize)](https://github.com/malufell/meu-caderno-de-receitas/wiki/6.-Interagindo-com-o-usu%C3%A1rio,-POST-e-findOne)
-  - [EJS e Sequelize juntos!](https://github.com/malufell/meu-caderno-de-receitas/wiki/5.-EJS-e-Sequelize-juntos)
-  - [Configurações para uso do Sequelize com o PostgreSQL](https://github.com/malufell/meu-caderno-de-receitas/wiki/4.-Sequelize-com-PostgreSQL)
-  - [Meus primeiros passos com EJS](https://github.com/malufell/meu-caderno-de-receitas/wiki/3.-Primeiros-passos-com-EJS)
-  - [Como criei minha página "em breve" com bootstrap e coloquei no ar com github](https://github.com/malufell/meu-caderno-de-receitas/wiki/2.-Cria%C3%A7%C3%A3o-da-p%C3%A1gina-tempor%C3%A1ria-%22em-breve%22)
-  - [Definindo o caminho do meu projeto: análise de negócio, análise técnica, wireframe](https://github.com/malufell/meu-caderno-de-receitas/wiki/1.-Definindo-o-caminho)
-</details>
-
----
-### Projetos
+## Projetos:
 
 - [Meu primeiro projeto autoral](https://github.com/malufell/meu-caderno-de-receitas): http://www.meucadernodereceitas.net/ :heart:
   - app em node.js, com sequelize, postgres, EJS e bootstrap! Bibliotecas utilizadas: bcrypt, body-parser, cloudinary, connect-flash, dotenv, express, method-override, multer, multer-storage-cloudinary, nodemon, passport, uuid.
@@ -32,6 +6,69 @@
   - possui autenticação de usuários
 
 <br>
+
+- [Jogo da Memória Husky](https://malufell.github.io/jogo-da-memoria-husky/)
+  - base do projeto construída com Vite
+  - implementa componentes com Javascript, HTML e CSS
+  - no ar em: https://malufell.github.io/jogo-da-memoria-husky/
+
+<br>
+
+- [Cadastro de produtos e clientes](https://github.com/malufell/desafioHC-gestao-cadastros)
+  - projeto implementado com React + react router dom + styled components
+  - criei para o desafio do curso de fullstack da gama academy, edição hiring coders #2
+  - app para cadastro de produtos e clientes, salva os dados no localstorage
+  - no ar em: https://husky-lovers-gestao-de-cadastros.netlify.app/
+
+<br>
+
+- [Landing page Husky Lovers](https://github.com/malufell/desafio-landing-page)
+  - projeto implementado com React + styled components;
+  - criei para o desafio do curso de fullstack da gama academy, edição hiring coders #2
+  - landing page para captação de e-mails, estilo black friday, salvando os dados no localstorage;
+  - no ar em: https://husky-lovers.netlify.app/
+
+<br>
+
+- [Aplicação para cadastro e relatório de anúncios](https://github.com/malufell/cadastro-anuncios)
+  - app em node.js, com express, postgres, sequelize, EJS e bootstrap, jest
+  - estruturado com services
+  - contempla testes unitários
+  - no ar em: https://cadastro-anuncios.herokuapp.com/
+<br>
+
+- [Aplicação para controle de operações de câmbio e relatório das operações cadastradas](https://github.com/malufell/controle-operacoes-cambio)
+  - app em node.js, com express, postgres, sequelize, EJS e bootstrap, jest
+  - busca dados de uma API externa para exibir o nome das moedas que podem ser cadastradas
+  - no ar em: https://controle-operacoes-cambio.herokuapp.com/
+<br>
+
+- Em desenvolvimento: [site beneficente para associação Amigo Down](https://github.com/malufell/amigo-down)
+  - conteúdo estático, utilizando gulp, HTML, CSS, Bootstrap 
+  - no ar em: https://malufell.github.io/amigo-down/
+
+<br>
+
+- React: [quiz da série How I Met Your Mother](https://github.com/malufell/imersao-react-alura)
+  - meu primeiro contato com React
+  - projeto construído durante a Imersão React edição NextJS da Alura
+  - no ar em: https://imersao-react-alura-malufell.vercel.app/
+
+<br>
+
+- [Autenticacao com passport e express-session](https://github.com/malufell/autenticacao-com-passport-express-session)
+  - app em NodeJS com Express, EJS, Sequelize, Postgres
+  - autenticação com: passport, passport-local, connect-flash, express-session e uuid
+
+<br>
+
+- [Paginação com Sequelize](https://github.com/malufell/paginacao)
+  - app em node.js, sequelize, postgres, EJS e bootstrap!
+  - implementa paginação em tabelas com relacionamento many-to-many
+
+## Projetos de cursos realizados:
+
+**Back-end:**
 
 - [API focada em segurança: autenticação com tokens, controle de acessos e atributos por cargos](https://github.com/malufell/autenticacao-com-tokens)
   - em node.js, com express, sqlite3, redis, bcrypt, jsonwebtoken, passport-http-bearer, passport-local, nodemailer, accesscontrol
@@ -57,47 +94,69 @@
   - padrão Repositories, que separa a camada de dados do model, passando informações com promises
   - consome uma API interna que faz a geração de dados ficticios com o faker
   - upload de imagens com stream
-<br>
 
-- [Aplicação para cadastro e relatório de anúncios](https://github.com/malufell/cadastro-anuncios): [projeto no ar](https://cadastro-anuncios.herokuapp.com/)
-  - app em node.js, com express, postgres, sequelize, EJS e bootstrap, jest
-  - estruturado com services
-  - contempla testes unitários
-<br>
-
-- [Aplicação para controle de operações de câmbio e relatório das operações cadastradas](https://github.com/malufell/controle-operacoes-cambio): [projeto no ar](https://controle-operacoes-cambio.herokuapp.com/)
-  - app em node.js, com express, postgres, sequelize, EJS e bootstrap, jest
-  - busca dados de uma API externa para exibir o nome das moedas que podem ser cadastradas
-<br>
-
-- Em desenvolvimento: [site beneficente para associação Amigo Down](https://github.com/malufell/amigo-down)
-  - conteúdo estático, utilizando gulp, HTML, CSS, Bootstrap 
-  - [site aqui](https://malufell.github.io/amigo-down/)
-<br>
-
-- Em desenvolvimento: [ecommerce de uma loja de jogos](https://github.com/malufell/react-avancado-client)
-  - desenvolvido no curso de react avançado
-  - contempla NextJS, GraphQL, TypeScript e implementação de testes
 <br>
 
 - [API para o ecommerce da loja de jogos](https://github.com/malufell/react-avancado-api):
   - back-end criado com CMS Strapi
+
 <br>
 
-- React: [quiz da série How I Met Your Mother](https://github.com/malufell/imersao-react-alura)
-  - meu primeiro contato com React
-  - projeto construído durante a Imersão React edição NextJS da Alura
-  - [resultado no ar com a vercel](https://imersao-react-alura-malufell.vercel.app/)
+**Front-end:**
+
+- Em desenvolvimento: [ecommerce de uma loja de jogos](https://github.com/malufell/react-avancado-client)
+  - desenvolvido no curso de react avançado
+  - contempla NextJS, GraphQL, TypeScript e implementação de testes
+  
+<br>
+
+- [Lista repositórios do GitHub](https://github.com/malufell/lista-repositorios-github)
+  - aplicação em React que implementa react-router-dom e axios para conectar na API do GitHub.
+  
+<br>
+
 ---
+
+### :pencil: Textos onde registro o que aprendi:
+
+:small_blue_diamond: [Meus gists](https://gist.github.com/malufell), com conteúdo mais focados na prática.
+
+<details>
+  <summary>Textos com conteúdo mais detalhado.</summary>
+  
+  - [Paginação em tabela many-to-many (sequelize)](https://github.com/malufell/paginacao)
+  - [Métodos build e create em tabela many-to-many](https://github.com/malufell/meu-caderno-de-receitas/wiki/d.-Create-em-tabela-many-to-many)
+  - [Como criar relacionamentos entre tabelas - Sequelize (many-to-many e one-to-many)](https://github.com/malufell/meu-caderno-de-receitas/wiki/c.-Tabelas-com-relacionamentos-many-to-many-e-one-to-many)
+  - [Criando índice no modelo (sequelize e postgres)](https://github.com/malufell/meu-caderno-de-receitas/wiki/b.-Criando-%C3%ADndice-no-modelo-(sequelize-e-postgres))
+  - [Ajustando os tipos de dados e limite de caracteres no modelo Sequelize](https://github.com/malufell/meu-caderno-de-receitas/wiki/a.-Atualizando-um-modelo-Sequelize)
+  - [Como implementei o método de busca (sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/9.-Implementando-o-m%C3%A9todo-de-busca) 
+  - [Como implementei o cadastro de usuários com validação de dados no back-end (com sequelize)!](https://github.com/malufell/meu-caderno-de-receitas/wiki/8.-Cadastro-de-usu%C3%A1rios-com-valida%C3%A7%C3%A3o-de-dados-no-back-end)
+  - [Autenticação de usuários com passport e express-session](https://github.com/malufell/autenticacao-com-passport-express-session) :heart: 
+  - [Interagindo com o usuário - método POST e findOne (sequelize)](https://github.com/malufell/meu-caderno-de-receitas/wiki/6.-Interagindo-com-o-usu%C3%A1rio,-POST-e-findOne)
+  - [EJS e Sequelize juntos!](https://github.com/malufell/meu-caderno-de-receitas/wiki/5.-EJS-e-Sequelize-juntos)
+  - [Configurações para uso do Sequelize com o PostgreSQL](https://github.com/malufell/meu-caderno-de-receitas/wiki/4.-Sequelize-com-PostgreSQL)
+  - [Meus primeiros passos com EJS](https://github.com/malufell/meu-caderno-de-receitas/wiki/3.-Primeiros-passos-com-EJS)
+  - [Como criei minha página "em breve" com bootstrap e coloquei no ar com github](https://github.com/malufell/meu-caderno-de-receitas/wiki/2.-Cria%C3%A7%C3%A3o-da-p%C3%A1gina-tempor%C3%A1ria-%22em-breve%22)
+  - [Definindo o caminho do meu projeto: análise de negócio, análise técnica, wireframe](https://github.com/malufell/meu-caderno-de-receitas/wiki/1.-Definindo-o-caminho)
+</details>
+
+---
+
 
 ### :books: Cursos realizados - tech:
 
-
+- [desenvolvimento full stack_gama-academy_VTEX.pdf](https://github.com/malufell/malufell/files/6977325/Certificado.-.Maria.Fell.pdf)
 - [formação node.js com express_alura.pdf](https://github.com/malufell/malufell/files/6673472/formacao.node.js.com.express_alura.pdf)
 - [formação iniciante em programação_alura.pdf](https://github.com/malufell/malufell/files/6673471/formacao.iniciante.em.programacao_alura.pdf)
 
 <br>
 
+- 08/09/21 - [CSS Grid: Simplificando layouts](https://cursos.alura.com.br/course/css-grid-layout)
+- 08/04/21 - [Vue.js parte 2: construindo Single Page Applications](https://cursos.alura.com.br/course/vue-parte2)
+- 07/29/21 - [Vue.js parte 1: construindo Single Page Applications](https://cursos.alura.com.br/course/vue-parte1)
+- 07/25/21 - [Desenvolvimento Full Stack](https://www.hiringcoders.com.br/) - 120 horas de curso!
+- 06/24/21 - [React: Hooks, Contextos e boas práticas](https://cursos.alura.com.br/course/react-hooks-e-formularios)
+- 06/21/21 - [React: Function Components, uma abordagem moderna](https://cursos.alura.com.br/course/react-function-components)
 - 06/17/21 - **Completei a formação de Node.js com Express, 110 horas de curso!** :clap:
 - 06/17/21 - [NodeJS: Controle de acesso e autorização com RBAC](https://cursos.alura.com.br/course/nodejs-controle-acesso-autorizacao-rbac)
 - 06/15/21 - [Node.js: Refresh Tokens e confirmação de cadastro](https://cursos.alura.com.br/course/nodejs-refresh-tokens-confirmacao-cadastro)
