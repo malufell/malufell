@@ -7,6 +7,21 @@
 
 <br>
 
+- [To Do List com Vue](https://github.com/malufell/to-do-list-vuex-vuetify)
+  - projeto com Vuex, Vuetify, Vue Router, Vue easy dnd (drag and drop - arrasta e solta), Localbase, Animate CSS
+  - encontrei essa [playlist boa demais do Yuri](https://www.youtube.com/watch?v=fL2BAYzCIZs&list=PLygIEirBzJi6qaDltMN44zyVHjbqUa4e-) e peguei os conceitos iniciais: cadastro, edição, exclusão, uso de modais!
+  - então fui além implementando novas funcionalidades: prazo para tarefa; validação de dados no cadastro; dias até o prazo; status: no prazo, atrasado, concluído; dividi a exibição entre tarefas em andamento e tarefas concluídas; para mobile, a task é exibida em um card
+
+<br>
+
+- [Vue-pgk](https://github.com/malufell/vue-pgk)
+  - app para treinar meus primeiros passos com vue em um projeto particular
+  - praticando a divisão dos componentes
+  - utiliza axios para buscar dados em uma API (jsonplaceholder)
+  - utiliza SASS para estilização
+
+<br>
+
 - [Jogo da Memória Husky](https://malufell.github.io/jogo-da-memoria-husky/)
   - base do projeto construída com Vite
   - implementa componentes com Javascript, HTML e CSS
@@ -104,6 +119,8 @@
 
 **Front-end:**
 
+
+
 - Em desenvolvimento: [ecommerce de uma loja de jogos](https://github.com/malufell/react-avancado-client)
   - desenvolvido no curso de react avançado
   - contempla NextJS, GraphQL, TypeScript e implementação de testes
@@ -151,6 +168,7 @@
 
 <br>
 
+- 09/30/21 - [Vue.js: Protegendo recursos com autenticação e VueX](https://cursos.alura.com.br/course/vuejs-protegendo-recursos-com-autenticacao-e-vuex)
 - 08/09/21 - [CSS Grid: Simplificando layouts](https://cursos.alura.com.br/course/css-grid-layout)
 - 08/04/21 - [Vue.js parte 2: construindo Single Page Applications](https://cursos.alura.com.br/course/vue-parte2)
 - 07/29/21 - [Vue.js parte 1: construindo Single Page Applications](https://cursos.alura.com.br/course/vue-parte1)
