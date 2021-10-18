@@ -119,7 +119,24 @@
 
 **Front-end:**
 
+Vue.js:
 
+- [Vue.js: construindo Single Page Applications](https://github.com/malufell/vue-curso-alura)
+  - desenvolvido durante a formação em Vue.js da Alura
+  - implementa os fundamentos do vue.js
+
+<br>
+
+- [Autenticação com vue.js](https://github.com/malufell/vue-autenticacao)
+  - utiliza o axios para conectar com uma API backend fake que retorna access token para autenticação do usuários
+
+<br>
+
+- [Testes unitários com vue.js e jest](https://github.com/malufell/vue-testes-unitarios)
+
+<br>
+
+React:
 
 - Em desenvolvimento: [ecommerce de uma loja de jogos](https://github.com/malufell/react-avancado-client)
   - desenvolvido no curso de react avançado
@@ -130,8 +147,6 @@
 - [Lista repositórios do GitHub](https://github.com/malufell/lista-repositorios-github)
   - aplicação em React que implementa react-router-dom e axios para conectar na API do GitHub.
   
-<br>
-
 ---
 
 ### :pencil: Textos onde registro o que aprendi:
@@ -161,13 +176,14 @@
 
 
 ### :books: Cursos realizados - tech:
-
+- [formação vue.js](https://github.com/malufell/malufell/files/7361153/Formacao.Vue.js.pdf)
 - [desenvolvimento full stack_gama-academy_VTEX.pdf](https://github.com/malufell/malufell/files/6977325/Certificado.-.Maria.Fell.pdf)
 - [formação node.js com express_alura.pdf](https://github.com/malufell/malufell/files/6673472/formacao.node.js.com.express_alura.pdf)
 - [formação iniciante em programação_alura.pdf](https://github.com/malufell/malufell/files/6673471/formacao.iniciante.em.programacao_alura.pdf)
 
 <br>
 
+- 10/17/21 - [Vue.js: Testes unitários automatizados com Jest](https://cursos.alura.com.br/course/vuejs-testes-unitarios-automatizados-jest)
 - 09/30/21 - [Vue.js: Protegendo recursos com autenticação e VueX](https://cursos.alura.com.br/course/vuejs-protegendo-recursos-com-autenticacao-e-vuex)
 - 08/09/21 - [CSS Grid: Simplificando layouts](https://cursos.alura.com.br/course/css-grid-layout)
 - 08/04/21 - [Vue.js parte 2: construindo Single Page Applications](https://cursos.alura.com.br/course/vue-parte2)
