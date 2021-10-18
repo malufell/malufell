@@ -6,7 +6,6 @@
 
 ### O que estou fazendo:
 - Estudando Vue.js e estrutura de dados.
-- Praticando JavaScript, Node.js, HTML, CSS, EJS, Bootstrap, Postgres e Sequelize. 
 - [Este é meu histórico de estudos e práticas](https://github.com/malufell/malufell/blob/main/meu-log.md), onde registro textos com o que estou praticando, projetos e cursos realizados.
 - [Este foi meu primeiro projeto autoral](https://github.com/malufell/meu-caderno-de-receitas) e por isso é especial, fiz a implementação completa (back e front), veja o resultado em http://www.meucadernodereceitas.net/<br>
 
