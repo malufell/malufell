@@ -83,6 +83,37 @@
 
 ## Projetos de cursos realizados:
 
+
+
+**Front-end:**
+
+**Vue.js:**
+
+- [Vue.js: construindo Single Page Applications](https://github.com/malufell/vue-curso-alura)
+  - desenvolvido durante a formação em Vue.js da Alura
+  - implementa os fundamentos do vue.js
+<br>
+
+- [Autenticação com vue.js](https://github.com/malufell/vue-autenticacao)
+  - utiliza o axios para conectar com uma API backend fake que retorna access token para autenticação do usuários
+<br>
+
+- [Testes unitários com vue.js e jest](https://github.com/malufell/vue-testes-unitarios)
+<br>
+
+**React:**
+
+- Em desenvolvimento: [ecommerce de uma loja de jogos](https://github.com/malufell/react-avancado-client)
+  - desenvolvido no curso de react avançado
+  - contempla NextJS, GraphQL, TypeScript e implementação de testes
+  
+<br>
+
+- [Lista repositórios do GitHub](https://github.com/malufell/lista-repositorios-github)
+  - aplicação em React que implementa react-router-dom e axios para conectar na API do GitHub.
+
+<br>
+
 **Back-end:**
 
 - [API focada em segurança: autenticação com tokens, controle de acessos e atributos por cargos](https://github.com/malufell/autenticacao-com-tokens)
@@ -116,37 +147,6 @@
   - back-end criado com CMS Strapi
 
 <br>
-
-**Front-end:**
-
-Vue.js:
-
-- [Vue.js: construindo Single Page Applications](https://github.com/malufell/vue-curso-alura)
-  - desenvolvido durante a formação em Vue.js da Alura
-  - implementa os fundamentos do vue.js
-
-<br>
-
-- [Autenticação com vue.js](https://github.com/malufell/vue-autenticacao)
-  - utiliza o axios para conectar com uma API backend fake que retorna access token para autenticação do usuários
-
-<br>
-
-- [Testes unitários com vue.js e jest](https://github.com/malufell/vue-testes-unitarios)
-
-<br>
-
-React:
-
-- Em desenvolvimento: [ecommerce de uma loja de jogos](https://github.com/malufell/react-avancado-client)
-  - desenvolvido no curso de react avançado
-  - contempla NextJS, GraphQL, TypeScript e implementação de testes
-  
-<br>
-
-- [Lista repositórios do GitHub](https://github.com/malufell/lista-repositorios-github)
-  - aplicação em React que implementa react-router-dom e axios para conectar na API do GitHub.
-  
 ---
 
 ### :pencil: Textos onde registro o que aprendi:
