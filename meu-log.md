@@ -83,36 +83,23 @@
 
 ## Projetos de cursos realizados:
 
-
-
 **Front-end:**
-
-**Vue.js:**
 
 - [Vue.js: construindo Single Page Applications](https://github.com/malufell/vue-curso-alura)
   - desenvolvido durante a formação em Vue.js da Alura
   - implementa os fundamentos do vue.js
-<br>
 
 - [Autenticação com vue.js](https://github.com/malufell/vue-autenticacao)
   - utiliza o axios para conectar com uma API backend fake que retorna access token para autenticação do usuários
-<br>
 
 - [Testes unitários com vue.js e jest](https://github.com/malufell/vue-testes-unitarios)
-<br>
-
-**React:**
 
 - Em desenvolvimento: [ecommerce de uma loja de jogos](https://github.com/malufell/react-avancado-client)
   - desenvolvido no curso de react avançado
   - contempla NextJS, GraphQL, TypeScript e implementação de testes
-  
-<br>
 
 - [Lista repositórios do GitHub](https://github.com/malufell/lista-repositorios-github)
   - aplicação em React que implementa react-router-dom e axios para conectar na API do GitHub.
-
-<br>
 
 **Back-end:**
 
@@ -121,8 +108,6 @@
   - implementa autenticação com tokens (access token e refresh token)
   - implementa controle de acessos e atributos por Cargos com o accesscontrol
   - implementa confirmação de cadastro por email e recurso 'esqueci minha senha' 
-
-<br>
 
 - [API Rest - aprofundando http](https://github.com/malufell/api-rest-aprofundando-http)
   - em node.js, com express, mySQL, sequelize, jsontoxml
@@ -133,28 +118,23 @@
   - versionamento de rotas
   - respostas da API no formato JSON ou XML
 
-<br>
-
 - [API Rest no padrão repositories](https://github.com/malufell/api-rest-repositories)
   - em node.js, com express, mySQL, biblioteca momentJS para validação de datas
   - padrão Repositories, que separa a camada de dados do model, passando informações com promises
   - consome uma API interna que faz a geração de dados ficticios com o faker
   - upload de imagens com stream
 
-<br>
-
 - [API para o ecommerce da loja de jogos](https://github.com/malufell/react-avancado-api):
   - back-end criado com CMS Strapi
 
-<br>
 ---
 
 ### :pencil: Textos onde registro o que aprendi:
 
-:small_blue_diamond: [Meus gists](https://gist.github.com/malufell), com conteúdo mais focados na prática.
+:small_blue_diamond: [Meus gists](https://gist.github.com/malufell);
 
 <details>
-  <summary>Textos com conteúdo mais detalhado.</summary>
+  <summary>Alguns textos que escrevi como parte dos meus estudos</summary>
   
   - [Paginação em tabela many-to-many (sequelize)](https://github.com/malufell/paginacao)
   - [Métodos build e create em tabela many-to-many](https://github.com/malufell/meu-caderno-de-receitas/wiki/d.-Create-em-tabela-many-to-many)
